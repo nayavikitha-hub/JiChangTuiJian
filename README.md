@@ -93,7 +93,7 @@ NiceCloud耐思云机场官网地址</br>
 
 ### 03. Guga云 咕嘎云机场（奈云机场）
 GugaCloud咕嘎云机场官网地址</br>
-`NaiYun奈云机场进行品牌升级，现改名为GugaCloud咕嘎云`
+`NaiYun奈云机场进行品牌升级，现改名为GugaCloud咕嘎云`</br>
 最新地址01：[user.guga.cloud](https://to.iix.im/gu01)</br>
 最新地址02：[user.gugavpn.com](https://to.iix.im/gu02)</br>
 官网地址01：[user.gugayun.com](https://to.iix.im/gu03)</br>
@@ -393,7 +393,7 @@ YkkCloud 机场官网地址</br>
 
 ### 05. NIVA Network机场
 NIVA Network机场官网地址</br>
-✅含菲律宾家宽（订阅低价AI）</br>
+`含菲律宾家宽（订阅低价AI）`</br>
 最新地址01：[app.niva.lol](https://to.iix.im/niva03)</br>
 最新地址02：[app.niva.lol](https://to.iix.im/niva01)</br>
 官方地址：[mizuku.net](https://to.iix.im/niva02)</br>
@@ -408,7 +408,7 @@ XnYun NianYun念云机场官网地址</br>
 最新地址01：[xnncl.com](https://to.iix.im/xny01)</br>
 最新地址02：[xnyun.wiki](https://to.iix.im/xny01)</br>
 官方地址：[nianyun.cloud](https://to.iix.im/xny01)</br>
-✅周期性套餐丨✅不限时套餐丨✅家宽丨✅专线丨✅Emby服务</br>
+✅周期性套餐丨✅不限时套餐丨✅家宽丨✅专线</br>
 优势：平时爱折腾，不在乎总更新订阅，但平时有各地家宽需求的用户，可做备选</br>
 
 ---
