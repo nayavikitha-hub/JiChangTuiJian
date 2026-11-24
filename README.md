@@ -57,7 +57,7 @@
 
 > [!NOTE]
 > 本文推荐**排名**不分先后，星级评分基于个人使用体验，仅供参考。</br>
-> [▶ 开启IPv6](https://github.com/jdnei/ipv6)丨[▶ IP工具箱](https://github.com/jdnei/IPTools)</br>
+> [▶ 开启IPv6](https://github.com/nayavikitha-hub/ipv6)丨[▶ IP工具箱](https://github.com/nayavikitha-hub/IPTools)</br>
 
 
 | 🔽 | 🔽 | 🔽 | 🔽 | 🔽 |
