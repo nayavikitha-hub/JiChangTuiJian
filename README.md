@@ -72,9 +72,11 @@
 <a id="standard"></a>
 ## 📦 普通系列
 ### 01. NiceCloud机场
-官网最新地址：[nicecloud.cyou](https://to.iix.im/nc05)
-</br>
-
+NiceCloud耐思云机场官网地址</br>
+最新地址01：[nicecloud.cyou](https://to.iix.im/nc03)</br>
+最新地址02：[nicecloud.me](https://to.iix.im/nc05)</br>
+最新地址03：[nicecloud.co](https://to.iix.im/nc04)</br>
+官方地址：[ncink.cc](https://to.iix.im/nc01)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：耐思云机场采用IEPL专线及优质中转节点，负载表现稳定的老牌VPN机场</br>
 
@@ -82,8 +84,7 @@
 ---
 
 ### 02. 狗狗加速机场
-官网最新地址：[狗狗加速.com](https://to.iix.im/gg01)
-</br>
+官方最新地址：[狗狗加速.com](https://to.iix.im/gg01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：速度中规中矩，图个省心，支持openwrt软路由，老牌子机场算便宜的</br>
 
@@ -91,9 +92,13 @@
 ---
 
 ### 03. Guga云 咕嘎云机场（奈云机场）
-`品牌升级`</br>
-最新官网地址：[guga.cloud](https://to.iix.im/gu01)
-</br>
+GugaCloud咕嘎云机场官网地址</br>
+`NaiYun奈云机场进行品牌升级，现改名为GugaCloud咕嘎云`
+最新地址01：[user.guga.cloud](https://to.iix.im/gu01)</br>
+最新地址02：[user.gugavpn.com](https://to.iix.im/gu02)</br>
+官网地址01：[user.gugayun.com](https://to.iix.im/gu03)</br>
+官网地址02：[user.gugavpn.one](https://to.iix.im/gu04)</br>
+永久地址：[guga.cloud](https://guga.cloud)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅专线</br>
 优势：**自有机房**，部分专线，cn2、cug和cmi的线路，50+节点，年付可做到14元/月</br>
 
@@ -102,8 +107,9 @@
 ---
 
 ### 04. XSUS十八线小机场
-官网最新地址：[xsus.cloud](https://to.iix.im/xsus02)
-</br>
+XSUS十八线小机场官网地址</br>
+最新地址：[xsus.cloud](https://to.iix.im/xsus02)</br>
+官方地址：[xsus2.com](https://to.iix.im/xsus01)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌机场，稳定性很好，什么套餐都有，推荐不想折腾的用户</br>
 
@@ -111,8 +117,10 @@
 ---
 
 ### 05. CTC机场
-官网最新地址：[www.ctc.run](https://to.iix.im/ctc03)
-</br>
+CTC.run CTC机场官网地址</br>
+最新地址01：[www.ctc.run](https://to.iix.im/ctc03)</br>
+最新地址02：[www.ctc.run](https://to.iix.im/ctc02)</br>
+官方地址：[daohang.ctc.run](https://to.iix.im/ctc01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌机场了，有专线，缺点贵</br>
 
@@ -120,8 +128,9 @@
 ---
 
 ### 06. Ytoo专线机场
-官网最新地址：[y-too.net](https://to.iix.im/yt01)
-</br>
+YtooVPN歪兔专线机场官网地址</br>
+最新地址：[y-too.net](https://to.iix.im/yt01)</br>
+官方地址：[www.to-ytoo.xyz](https://to.iix.im/yt01)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌机场很火，不好用**能退款**，应该都听说过，可以试试</br>
 
@@ -131,8 +140,10 @@
 
 
 ### 07. SSRdog机场
-官网最新地址：[dog.ssrdog.com](https://to.iix.im/dog01)
-</br>
+SSRdog机场官网地址</br>
+最新地址01：[dog.ssrdog.com](https://to.iix.im/dog01)</br>
+最新地址02：[dog.ssrdog.com](https://to.iix.im/dog01)</br>
+官方地址：[dog.ssrdog.com](https://to.iix.im/dog01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌机场了，有专线，缺点贵</br>
 
@@ -141,8 +152,11 @@
 ---
 
 ### 08. rancho牧场物语机场
-官网最新地址：[mm.mcwy.pro](https://to.iix.im/mcwy05)
-</br>
+mcwy rancho牧场物语机场官网地址</br>
+最新地址01：[mm.mcwy.pro](https://to.iix.im/mcwy04)</br>
+最新地址02：[gg.mcwy.pro](https://to.iix.im/mcwy03)</br>
+官方入口地址01：[mcfby.com](https://to.iix.im/mcwy02)</br>
+官方入口地址02：[mccloud.gay](https://to.iix.im/mcwy01)</br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
 优势：老牌机场了，有专线，有家宽，缺点贵，比较稳定</br>
 
@@ -151,8 +165,13 @@
 <a id="value"></a>
 ## 💰 性价比系列
 ### 01. 魔戒机场
-最新官网地址：[mojie.co](https://to.iix.im/mj05)
-</br>
+mojie魔戒机场官网地址</br>
+最新地址01：[mojie.app](https://to.iix.im/mj06)</br>
+最新地址02：[mojie.co](https://to.iix.im/mj05)</br>
+最新地址03：[mojie.host](https://to.iix.im/mj04)</br>
+官方入口地址01：[魔戒.net](https://to.iix.im/mj03)</br>
+官方入口地址02：[按量计费.com](https://to.iix.im/mj02)</br>
+官方入口地址03：[甘道夫.com](https://to.iix.im/mj01)</br>
 ❌周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：提供不限时套餐，可1元购买。备用机场之王。支持软路由Openwrt。</br>
 
@@ -160,8 +179,10 @@
 ---
 
 ### 02. 八戒机场
-最新官网地址：[bajie.la](https://to.iix.im/bj02)
-</br>
+bajie八戒机场官网地址</br>
+最新地址01：[bajie.la](https://to.iix.im/bj01)</br>
+最新地址02：[bajie.pro](https://to.iix.im/bj02)</br>
+官方入口地址01：[bajie.pw](https://to.iix.im/bj03)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：可1元购买，备用机场，和魔戒对标，还提供周期性套餐。</br>
 
@@ -169,55 +190,58 @@
 ---
 
 ### 03. 良心云机场
-最新官网地址：[良心云.com](https://to.iix.im/lx01)
-</br>
+LiangXin 良心云机场官网地址</br>
+官方最新地址：[良心云.com](https://to.iix.im/lx01)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：最近GFW封的厉害，他家很强，提供0.01倍长期下载专属节点</br>
 
 
 ---
 ### 04. 吹雪云机场
-官网最新地址：[吹雪云.com](https://xn--9kqs1lo79d.com/#/register?code=RRAhwArP)
-</br>
+ChuiXueCloud 吹雪云机场官网地址</br>
+官方地址：[吹雪云.com](https://to.iix.im/cx01)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：良心云的竞争对手，主打便宜大碗，月付不怕跑路</br>
 
 ---
 
 ### 05. StepFly阶跃云机场
-最新官网地址：[stepfly.space](https://to.iix.im/sf01)
-</br>
+StepFly阶跃云机场官网地址</br>
+官方地址：[stepfly.space](https://to.iix.im/sf01)</br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽</br>
 优势：多个国家的住宅代理，贵套餐有专线，可根据需要自己设置转发，5.8元/月/1T。</br>
 
 ---
 
 ### 06. Mitce机场
-最新官网地址：[mitce.io](https://to.iix.im/mt01)
-</br>
+Mitce机场官网地址</br>
+最新地址：[mitce.io](https://to.iix.im/mt01)
 ✅周期性套餐丨❌不限时套餐丨✅家宽丨✅无限流量</br>
 优势：包括常用的节点，还另外提供香港HK的家宽节点，带无限流量的套餐，有需求的可以订阅。</br>
 
 ---
 
 ### 07. KittyNetwork机场
-官网最新地址：[kitty.fo](https://to.iix.im/kn01)</br>
+KittyNetwork机场官网地址</br>
+官方地址：[kitty.fo](https://to.iix.im/kn01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅新疆可用丨✅不限速丨✅不限设备数</br>
 优势：提供中国新疆地区可用的节点，24元/1年，36元/2年。</br>
 
 ---
 
 ### 08. 一分机场
-官网最新地址：[一分机场.com](https://to.iix.im/yf01)
-</br>
+YifenCloud 一分机场官网地址</br>
+官方最新地址：[一分机场.com](https://to.iix.im/yf01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：入门性价比，便宜，对质量要求不高的可以选</br>
 
 ---
 
 ### 09. 赔钱机场
-官网最新地址：[赔钱机场.com](https://to.iix.im/pq01)
-</br>
+peiqianjichang 赔钱机场官网地址</br>
+最新地址01：[dash.赔钱.com](https://to.iix.im/pq02)</br>
+最新地址02：[dash.pqjc.site](https://to.iix.im/pq01)</br>
+官方最新地址：[赔钱机场.com](https://to.iix.im/pq01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽</br>
 优势：入门性价比，便宜，对质量要求不高的可以选</br>
 
@@ -226,16 +250,20 @@
 ## 🚀 专线系列
 
 ### 01. byg白月光专线机场
-官网最新地址：[bygcloud.com](https://to.iix.im/byg02)
-</br>
+bygcloud 白月光 专线机场 精品机场 官网地址</br>
+最新地址：[bygcloud.com](https://to.iix.im/byg02)</br>
+官方地址：[bygcloud.com](https://to.iix.im/byg01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：用的人少，比花云便宜，老牌机场，稳定</br>
 
 ---
 
 ### 02. WgetCloud专线机场
-官网最新地址：[wgetcloud.ltd](https://to.iix.im/wc02)
-</br>
+WgetCloud 专线机场 官网地址</br>
+`新用户注册，享85折优惠`</br>
+最新地址01：[wgetcloud.ltd](https://to.iix.im/wc02)</br>
+最新地址02：[wgetcloud.ltd](https://to.iix.im/wc01)</br>
+官方地址：[wget.co](https://wget.co)访问MM：`wfG5!@^kSI6yXbh6WU`</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌有专线的机场，缺点贵，优点稳定</br>
 
@@ -243,24 +271,29 @@
 ---
 
 ### 03. TAG专线机场
-官网最新地址：[tagss.pro](https://to.iix.im/tag03)
-</br>
+TAG机场官网地址</br>
+最新地址：[tagss.pro](https://to.iix.im/tag03)</br>
+官方地址01：[tagxx.vip](https://to.iix.im/tag02)</br>
+官方地址02：[tagweb.vip](https://to.iix.im/tag01)</br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
-优势：有专线，有冷门节点，不喜欢花云奶昔的plan B</br>
+优势：有专线，有冷门节点，部分地区家宽,不喜欢花云奶昔的plan B</br>
 
 ---
 
 ### 04. KenDeJi肯の基专线机场
-官网最新地址：[kendeji.io](https://to.iix.im/kdj01)
-</br>
+KenDeJi 肯の机机场官网地址</br>
+最新地址：[kendeji.io](https://to.iix.im/kdj01)</br>
+官方地址：[kendeji.io](https://to.iix.im/kdj01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：新开的专线机场，价格适中，真专线</br>
+优势：已稳定半年的新专线机场，价格适中，真专线</br>
 
 ---
 
 ### 05. Mesl专线机场
-官网最新地址：[getmesl.com](https://to.iix.im/mesl01)
-</br>
+Mesl专线机场官网地址</br>
+最新地址01：[panel.meslcloud.com](https://to.iix.im/mesl03)</br>
+最新地址02：[in.mesl.cloud](https://to.iix.im/mesl02)</br>
+官方地址：[getmesl.com](https://to.iix.im/mesl01)</br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
 优势：老牌专线机场，稳定，年付可到¥12.92/月，50G流量AI用合适</br>
 
@@ -268,17 +301,22 @@
 ---
 
 ### 06. LanYun博纳蓝云专线机场
-官网最新地址：[lanyun.org](https://to.iix.im/lan02)
-</br>
+LanYun博纳蓝云机场官网地址</br>
+最新地址01：[https://lanyun.org](https://to.iix.im/lan01)</br>
+最新地址02：[https://lanyun.xyz](https://to.iix.im/lan02)</br>
+官方地址01：[https://蓝云.com](https://to.iix.im/lan03)</br>
+官方地址02：[https://博纳斯.com](https://to.iix.im/lan04)</br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
-优势：优先客户端，订阅只支持小火箭，带部分家宽，以前做企业端，走金融专线，校园网友好专线机场，价格较贵</br>
+优势：优先客户端，订阅只支持**小火箭**，带部分家宽，以前做企业端，走金融专线，校园网友好专线机场，价格较贵</br>
 
 
 ---
 
 ### 07. 69云专线机场
-官网最新地址：[china.69yun69.net](https://to.iix.im/6903)
-</br>
+69Yun 69云机场官网地址</br>
+最新地址01：[china.69yun69.net](https://to.iix.im/6903)</br>
+最新地址02：[69yun69.net](https://to.iix.im/6902)</br>
+官方地址：[69yun69.com](https://to.iix.im/6901)</br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
 优势：老牌的专线机场，价格便宜，带多地住宅代理</br>
 
@@ -286,8 +324,9 @@
 ---
 
 ### 08. 绿叶云专线机场
-官网最新地址：[linkcube.org](https://to.iix.im/ly02)
-</br>
+LinkCube绿叶机场 专线机场 官网地址</br>
+最新地址：[linkcube.org](https://to.iix.im/ly02)</br>
+官方地址：[711-cloud.net](https://to.iix.im/ly01)</br>
 ✅周期性套餐丨❌不限时套餐丨✅家宽丨✅专线</br>
 优势：用稍微便宜的价格，体验专线，三个套餐清晰无套路</br>
 
@@ -296,16 +335,17 @@
 
 
 ### 09. 花云机场
-官网最新地址：[flowercloud.net](https://to.iix.im/fc01)
-</br>
+FlowerCloud 花云机场 专线机场 官网地址</br>
+官方地址: [flowercloud.net](https://to.iix.im/fc01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌专线，和奶昔一样，技术强，不跑路,不差钱直接上</br>
 
 ---
 
 ### 10. 奶昔机场
-官网最新地址：[nxonearth.com](https://to.iix.im/nx01)
-</br>
+NaiXi Nexitally奶昔机场 专线机场 官网地址</br>
+最新地址：[nxonearth.com](https://to.iix.im/nx01)（关闭代理软件访问）</br>
+官方地址：[nxonearth.com](https://to.iix.im/nx01)（关闭代理软件访问）</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：老牌专线，和花云一样，技术强，信得过，不差钱直接上</br>
 
@@ -315,35 +355,48 @@
 ## ✨ 特色系列
 
 ### 01. EdNovas机场
-官网最新地址：[se.av.bingo](https://to.iix.im/ed01)</br>
+最新地址01：[se.av.bingo](https://to.iix.im/ed01)</br>
+最新地址02：[domain.wmzcy.com](https://to.iix.im/ed02)</br>
+官方地址：[ednovas.me](https://to.iix.im/ed03)</br>
 ✅周期性套餐丨✅不限时套餐丨✅Emby服务丨✅回国节点</br>
 优势：老牌，带Emby观影，有回国节点(英文套餐)，留子可用，国内套餐，拉配置文件，无订阅链接</br>
 
 ---
 
 ### 02. KittyNetwork机场
-官网最新地址：[kitty.fo](https://to.iix.im/kn01)</br>
+KittyNetwork机场官网地址</br>
+最新地址：[kitty.fo](https://to.iix.im/kn01)</br>
+官方地址：[kitty.fo](https://to.iix.im/kn01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅新疆可用丨✅不限速丨✅不限设备数</br>
 优势：提供中国新疆地区可用的节点，24元/1年，36元/2年。</br>
 
 ---
 
 ### 03. m78星云机场
-官网最新地址：[www.m78.pro](https://to.iix.im/xy03)</br>
+M78星云机场官网地址</br>
+最新地址01：[www.m78.pro](https://to.iix.im/xy03)</br>
+最新地址02：[m78star.cloud](https://to.iix.im/xy02)</br>
+官方地址：[m78星云.com](https://to.iix.im/xy01)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅Emby服务</br>
 优势：提供正常节点外，可以同时开通Emby观影账号，爱看电影的首选，省一大笔</br>
 
 ---
 
 ### 04. YkkCloud机场
-官网最新地址：[panel.ykkk.best](https://to.iix.im/ykk01)</br>
+YkkCloud 机场官网地址</br>
+最新地址：[panel.ykkk.best](https://to.iix.im/ykk01)</br>
+官网地址：[panel.ykkk.best](https://to.iix.im/ykk01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅Emby服务</br>
 优势：提供正常节点外，可以赠送Emby观影权益，爱看电影的备选</br>
 
 ---
 
 ### 05. NIVA Network机场
-官网最新地址：[app.mizuku.net](https://to.iix.im/niva03)</br>
+NIVA Network机场官网地址</br>
+✅含菲律宾家宽（订阅低价AI）</br>
+最新地址01：[app.niva.lol](https://to.iix.im/niva03)</br>
+最新地址02：[app.niva.lol](https://to.iix.im/niva01)</br>
+官方地址：[mizuku.net](https://to.iix.im/niva02)</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽</br>
 优势：有部分住宅代理家宽需求，订阅AI，银行，美卡，带SpaceX星链节点</br>
 
@@ -351,14 +404,19 @@
 ---
 
 ### 06. NianYun念云机场
-官网最新地址：[nianyun.cloud](https://to.iix.im/xny01)</br>
+XnYun NianYun念云机场官网地址</br>
+最新地址01：[xnncl.com](https://to.iix.im/xny01)</br>
+最新地址02：[xnyun.wiki](https://to.iix.im/xny01)</br>
+官方地址：[nianyun.cloud](https://to.iix.im/xny01)</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽丨✅专线丨✅Emby服务</br>
 优势：平时爱折腾，不在乎总更新订阅，但平时有各地家宽需求的用户，可做备选</br>
 
 ---
 
 ### 07. DoroCloud机场
-官网最新地址：[dorocloud.cn](https://to.iix.im/doro01)</br>
+DoroCloud机场官网地址</br>
+最新地址：[dorocloud.cn](https://to.iix.im/doro01)</br>
+官方地址：[dorocloud.xyz](https://to.iix.im/doro02)</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽</br>
 优势：登金融平台，银行，AI等没问题，各国各种家宽，住宅代理</br>
 
@@ -367,7 +425,8 @@
 ---
 
 ### 08. KooDog酷狗机场
-官网最新地址：[www.kdcloud.uk](https://to.iix.im/kg01)</br>
+KooDog酷狗机场官网地址</br>
+官方地址：[www.kdcloud.uk](https://to.iix.im/kg01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅不限设备数丨✅专线丨✅Emby</br>
 优势：带了几条专线，有流量结转，有闲时低倍率节点，带Emby影视服务</br>
 
@@ -377,71 +436,94 @@
 <a id="new"></a>
 ## 🌱 成长系列
 ### 00. 9527专线机场
-官网最新地址：[9omvqop5.9527.now](https://to.iix.im/952702)</br>
+9527专线机场官网地址</br>
+最新地址01：[9omvqop5.9527.now](https://to.iix.im/952701)</br>
+最新地址02：[xpp7iakl.9527.now](https://to.iix.im/952702)</br>
+官方地址：[9527.bot](https://to.iix.im/952703)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅不限设备数丨✅专线</br>
 优势：AI稳定，专线线路，小流量，9元/月</br>
 
 ---
 
 ### 00. ShenXing神行加速机场
-官网最新地址：[8538vip.shenxingaff.com](https://to.iix.im/sx01)</br>
+ShenXing神行加速机场官网地址</br>
+最新地址：[8538vip.shenxingaff.com](https://to.iix.im/sx01)</br>
+官方地址：[8538vip.shenxingaff.com](https://to.iix.im/sx01)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅不限设备数丨✅专线</br>
 优势：小白友好，只支持客户端。最低价格，年付后，可到8元/月</br>
 
 ---
 
 ### 00. LiuLianCloud榴莲云机场
-官网最新地址：[853vip01.liulianyunaff.com](https://to.iix.im/ll01)</br>
+LiuLianCloud榴莲云机场官网地址</br>
+最新地址：[853vip01.liulianyunaff.com](https://to.iix.im/ll01)</br>
+官方地址：[853vip01.liulianyunaff.com](https://to.iix.im/ll01)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅不限设备数丨✅专线</br>
 优势：小流量套餐，年付最低可到8元/月，只支持客户端，新手友好</br>
 
 ---
 
 ### 00. SpiderVenomous毒蜘蛛机场
-官网最新地址：[yfint.jindy.cc.cd](https://to.iix.im/yh03)</br>
+SpiderVenomous 毒蜘蛛机场官网地址</br>
+最新地址01：[spiderapp.cc](https://to.iix.im/yh03)</br>
+最新地址02：[www.spiderapp.cc](https://to.iix.im/yh02)</br>
+官方地址：[go.spiderapp.cc](https://to.iix.im/yh01)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅专线</br>
 优势：用量不大的，季付可到10元/月，支持订阅链接和客户端</br>
 
 ---
 
 ### 00. DengTa灯塔加速器机场
-官网最新地址：[www.dengta12.com](https://to.iix.im/dt01)</br>
+DengTa 灯塔加速器机场官网地址</br>
+最新地址：[www.dengta12.com](https://to.iix.im/dt01)</br>
+官方地址：[www.dengta12.com](https://to.iix.im/dt01)</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽丨✅专线</br>
 优势：可注册试用，小流量套餐年付可到10元/月，现在支持订阅链接和客户端，客户端很成熟</br>
 
 ---
 
 ### 00. NiuNiu牛牛机场
-官网最新地址：[www.niuniuxxx.cc](https://to.iix.im/nn01)</br>
+NiuNiu牛牛机场官网地址</br>
+最新地址：[www.niuniuxxx.cc](https://to.iix.im/nn01)</br>
+官方地址：[www.niuniuxxx.cc](https://to.iix.im/nn01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅不限设备数</br>
 优势：可注册试用，用量不多的，可3.6元/月，有0.05倍节点</br>
 
 ---
 
 ### 00. PingNetwork机场
-官网最新地址：[pingnetwork.org](https://to.iix.im/ping01)</br>
+PingNetwork机场官网地址</br>
+最新地址：[pingnetwork.org](https://to.iix.im/ping01)</br>
+官方地址：[pingnetwork.de](https://to.iix.im/ping01)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽</br>
 优势：要求不高，预算有限的，年付19元</br>
 
 ---
 
 ### 00. OK云机场
+OKyun(OK云)机场官网地址</br>
 `PyroCloud老用户可直接登录`</br>
-官网最新地址：[www.okyun1.com](https://to.iix.im/ok01)</br>
+最新地址01：[www.okyun1.com](https://to.iix.im/ok01)</br>
+最新地址02：[www.okyun2.com](https://to.iix.im/ok02)</br>
+官方地址：[www.ok云.com](https://to.iix.im/ok03)</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅不限设备数丨✅专线</br>
 优势：优先客户端使用，是专线线路。订阅是直连。10元/月</br>
 
 ---
 
 ### 00. Taffy塔菲云机场
-官网最新地址：[vq.wanwan.biz.id](https://to.iix.im/vanq01)</br>
+Taffy 塔菲云机场官网地址</br>
+`原品牌VANQCore放心云`
+最新地址：[vq.wanwan.biz.id](https://to.iix.im/vanq01)</br>
+官方地址：[vq.wanwan.biz.id](https://to.iix.im/vanq01)</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽丨✅不限设备数丨✅专线</br>
 优势：注册可试用，新疆可用专线，带家宽，26元/月</br>
 
 ---
 
 ### 00. Jeeyio鸡油机场
-官网最新地址：[jeeyio.com](https://to.iix.im/jy01)</br>
+Jeeyio鸡油机场官网地址</br>
+官方地址：[jeeyio.com](https://to.iix.im/jy01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
 优势：属于小而美，速度快，12元/月，50+节点，入口多样</br>
 
