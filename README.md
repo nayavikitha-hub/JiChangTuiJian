@@ -1,7 +1,7 @@
 [![JiChangTuiJian](https://github.com/nayavikitha-hub/JiChangTuiJian/blob/main/JiChangTuiJian/198347234589logo.png?raw=ture)](https://to.iix.im/vpn)
 
 
-# 最新好用的机场推荐与节点分享(2026年11月24日更新)
+# 最新好用的机场推荐与节点分享(2026年11月25日更新)
 
 
 
